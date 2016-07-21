@@ -1,0 +1,22 @@
+Story: Far, far into the future, space travel has become integral to 
+human civilization. People have spread out to far reaches of the cosmos, 
+beyond the limits of planet Earth. However, an evil alien force has 
+arrived! They are laying down countless blocks to prevent 
+space-travellers from returning to Earth. You, as the saviour of 
+humanity, must prevent these aliens from achieving their objective.
+
+Objective and Mechanics of Tetris: You will be given different groups of blocks 
+called tetrominoes. These tetrominoes will slowly fall to the bottom of a grid, 
+accumulate, and stack on top of each other. Your objective is to arrange the 
+tetrominoes so that they form rows filled with blocks. Once a row is filled, 
+you earn points, and all blocks within that row are destroyed. You lose the 
+game if the blocks accumulate all the way to the top of the grid. 
+
+Controls: 
+a: move left
+d: move right
+w: change orientation
+s: drop down faster
+o: drop down instantly 
+p: reserve/ exchange the current tetromino
+[space] : quit 
