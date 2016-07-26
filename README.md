@@ -1,2 +1,2 @@
 # Space-Tetris
-In this engaging and entertaining version of Tetris, you rearrange the falling tetrominoes in order to make complete rows and earn points. Aliens are using these tetrominoes to prevent humans from travelling through space. Objective : prevent these blocks from accumulating any further! This is a high school final project built using Turing 4.1.1.
+This is an engaging and visually-captivating version of Tetris which I built using Turing 4.1.1 as a final project for my class. This project makes use of dynamic arrays, string manipulation, file input/ output and different types of loop, and it makes use of event-driven programming.
